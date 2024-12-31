@@ -1,0 +1,6 @@
+There are 4 strongly connected components in this graph.
+
+[8, 7, 9, 10, 12, 11]
+[2, 5, 4]
+[3, 6]
+[1]
