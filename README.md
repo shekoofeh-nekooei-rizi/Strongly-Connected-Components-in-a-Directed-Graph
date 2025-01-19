@@ -1,4 +1,4 @@
-I implemented Kosaraju's algorithm to find strongly connected components of a given directed graph.
+I implemented Kosaraju's algorithm, in Python programming language, to find strongly connected components of a given directed graph.
 
 In ***strongly_connected_components.py*** I implement the algorithm using a recursive approach.
 
