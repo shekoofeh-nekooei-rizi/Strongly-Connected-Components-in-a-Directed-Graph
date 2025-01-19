@@ -19,7 +19,7 @@ I implemented Kosaraju's algorithm for this purpose.
 
 In this implementation I used an iterative approach rather than a recursive approach.
 
-In other words, for the depth-first search, I used stacks instead of recursively calling the DFS function.
+In other words, for the depth-first-search, I used stacks instead of recursively calling the DFS function.
 
 
 In this program, the input file specifies the edges of the directed graph. Every row in the file indicates a directed edge.
