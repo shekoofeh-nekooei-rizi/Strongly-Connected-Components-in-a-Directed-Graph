@@ -11,9 +11,9 @@ Original file is located at
 This program computes Strongly Connected Components (SCCs) of a given directed graph.
 
 
-I implemented the Kosaraju's algorithm for this purpose.
+I implemented Kosaraju's algorithm for this purpose.
 
-My implementation is simple and efficient in terms of both time and memory usage.
+My implementation is simple and [pretty] efficient in terms of both time and memory usage.
 
 It runs fast!
 
